@@ -7,5 +7,5 @@
 ![Phase Delay 0 Degree](https://user-images.githubusercontent.com/49475559/122376057-6fe5e400-cf81-11eb-9a8a-4504a19cbb80.png)
 # Phase Delay 30 Degree for R load 
 ![Phase Delay 30 Degree](https://user-images.githubusercontent.com/49475559/122376069-72483e00-cf81-11eb-85c5-9098797c4dee.png)
-# Phase Delay 30 Degree for R and L load 
+# Phase Delay 30 Degree for RL load 
 ![R-L Phase Delay 30 Degree](https://user-images.githubusercontent.com/49475559/122376089-75432e80-cf81-11eb-8698-fc80cc317b76.png)
