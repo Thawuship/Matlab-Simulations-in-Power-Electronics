@@ -4,3 +4,5 @@ https://github.com/Thawuship/Matlab-Simulations-in-Power-Electronics/blob/main/0
 https://github.com/Thawuship/Matlab-Simulations-in-Power-Electronics/blob/main/02%20Bridge%20Controlled%20Rectifier%20Simulation/README.md
 # Single phase AC Chopper - Simulation
 https://github.com/Thawuship/Matlab-Simulations-in-Power-Electronics/tree/main/03%20AC%20Chopper%20with%20R%20and%20RL%20load%20Simulation#readme
+# Buck Regulator - Simulation
+https://github.com/Thawuship/Matlab-Simulations-in-Power-Electronics/tree/main/04%20Buck%20Regulator%20Simulation#readme
